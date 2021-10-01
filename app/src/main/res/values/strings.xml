@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TAG</string>
+    <string name="app_lp_text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="app_lp_text2">register</string>
+    <string name="app_lp_text3">me as a collector</string>
+    <string name="app_lp_text4">track my application</string>
+    <string name="app_pp_text5">Upload</string>
+    <string name="app_pp_text6">Edit</string>
+    <string name="app_pp_text7">john.doe</string>
+    <string name="app_pp_text8">My dashboard</string>
+    <string name="app_pp_text9">2.3K</string>
+    <string name="app_pp_text10">50</string>
+    <string name="app_pp_text11">21</string>
+    <string name="app_pp_text12">Followers</string>
+    <string name="app_pp_text13">ArtWorks</string>
+    <string name="app_pp_text14">Exhibitions</string>
+    <string name="app_pp_text15">120</string>
+    <string name="app_pp_text16">43K</string>
+    <string name="app_pp_text17">2.3K</string>
+    <string name="app_pp_text18">Uploads</string>
+    <string name="app_pp_text19">Revenue</string>
+    <string name="app_lp_text20">About Us.</string>
+    <string name="app_lp_text21">Team.</string>
+    <string name="app_lp_text22">Reach Us.</string>
+    <string name="app_lp_text23">Affiliations.</string>
+    <string name="app_lp_text24">Disclaimers.</string>
+    <string name="app_lp_text25">Privacy Policy.</string>
+    <string name="app_lp_text26">Content Copyright reserved.</string>
+    <string name="app_lp_text27">Landing page list image</string>
+    <string name="app_pp_text28">Profile page list image</string>
+    <string name="app_pp_text29">Palette</string>
+
+
+
+    <string name="title_activity_profile_page">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
